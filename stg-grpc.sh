@@ -3,7 +3,7 @@
 set -e
 
 # step 1 - 
-# a. make sure script is in the same dev dir as the repos
+# a. make sure script is in the same dev dir (DEV_PATH) as the repos
 # b. git clone repos: coherentpath / ink-api / protos
 # c. make sure you save the credentails into cert files, ie cert-stg.pem (for stg / prod), in the same root dir (you can find the cert files in 1password, ie Coherent Path gRPC staging credentials)
 
