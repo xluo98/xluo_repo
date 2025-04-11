@@ -13,7 +13,7 @@ set -e
 # brew install grpcui
 # brew install jq
 
-# step 3 - this will redirect to onepassword auth
+# step 3 - run the script, this will redirect to onepassword auth
 
 DEV_PATH="/Users/xLuo" # the root dir where you put your repos
 
